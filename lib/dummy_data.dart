@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import './models/category.dart';
 import './models/meal.dart';
-
+/*
 List<Restaurant> Restaurant_list = [
   Restaurant(
     id: '18638', // ms_esek_rashi
@@ -361,3 +361,4 @@ const DUMMY_MEALS = const [
     isLactoseFree: true,
   ),
 ];
+*/

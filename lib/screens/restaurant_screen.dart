@@ -53,12 +53,8 @@ class _SearchBarRestaurantScreenState extends State<RestaurantScreen> {
       body: GridView(
         padding: const EdgeInsets.all(25),
         children: Restaurant_list_grid.map(
-          (restaurantData) => RestaurantItem(
-            restaurantData.id,
-            restaurantData.name,
-            restaurantData.color,
-            restaurantData.city,
-          ),
+          (restaurantData) => RestaurantItem(restaurantData.id,
+              restaurantData.name, restaurantData.color, restaurantData.city),
         ).toList(),
         gridDelegate: SliverGridDelegateWithMaxCrossAxisExtent(
           maxCrossAxisExtent: 200,

@@ -6,6 +6,9 @@ class RestaurantItem extends StatelessWidget {
   final String id;
   final String title;
   final String city;
+  /*final String sanitationStatus;
+  final String reportPdfUrl;
+  final String reportDate;*/
   final Color color;
 
   RestaurantItem(this.id, this.title, this.color, this.city);
@@ -16,6 +19,9 @@ class RestaurantItem extends StatelessWidget {
       arguments: {
         'id': id,
         'title': title,
+        /*'sanitationStatus': sanitationStatus,
+        'reportPdfUrl': reportPdfUrl,
+        'reportDate': reportDate,*/
       },
     );
   }

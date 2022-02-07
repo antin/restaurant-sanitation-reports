@@ -13,21 +13,17 @@ import 'package:flutter_pdfview/flutter_pdfview.dart';
 import '../models/meal.dart';
 
 class ReportsSanitationItem extends StatelessWidget {
-  final String id;
-  final String title;
-  final String sanitationStatus;
+  final String restaurantsId;
   final String reportPdfUrl;
+  final String sanitationStatus;
   final String reportDate;
-
-  final String problems;
+//  final String problems;
 
   ReportsSanitationItem({
-    required this.id,
-    required this.title,
-    required this.sanitationStatus,
+    required this.restaurantsId,
     required this.reportPdfUrl,
+    required this.sanitationStatus,
     required this.reportDate,
-    required this.problems,
   });
 
   String get improveReportsSanitationUrl => "https://www.meida.org.il/?p=11611";
@@ -63,7 +59,7 @@ class ReportsSanitationItem extends StatelessWidget {
                       horizontal: 20,
                     ),
                     child: Text(
-                      title,
+                      sanitationStatus,
                       style: TextStyle(
                         fontSize: 26,
                         color: Colors.white,
@@ -91,7 +87,7 @@ class ReportsSanitationItem extends StatelessWidget {
                       Text(sanitationStatus),
                     ],
                   ),
-                  Row(
+                  /*Row(
                     children: <Widget>[
                       Icon(
                         Icons.work,
@@ -99,9 +95,9 @@ class ReportsSanitationItem extends StatelessWidget {
                       SizedBox(
                         width: 6,
                       ),
-                      Text(problems),
+                      Text(problems),)
                     ],
-                  ),
+                  ),*/
                   Row(
                     children: <Widget>[
                       Icon(

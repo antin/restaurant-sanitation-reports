@@ -177,3 +177,54 @@ build/web/icons/Icon-maskable-512.png
 .dart_tool/chrome-device/Default/shared_proto_db/metadata/LOCK
 .dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG
 .dart_tool/chrome-device/Default/shared_proto_db/metadata/MANIFEST-000001
+.dart_tool/chrome-device/Default/LOG.old
+.dart_tool/chrome-device/Default/AutofillStrikeDatabase/LOG.old
+.dart_tool/chrome-device/Default/BudgetDatabase/LOG.old
+.dart_tool/chrome-device/Default/Download Service/EntryDB/LOG.old
+.dart_tool/chrome-device/Default/Extension Scripts/LOG.old
+.dart_tool/chrome-device/Default/Extension State/LOG.old
+.dart_tool/chrome-device/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
+.dart_tool/chrome-device/Default/Feature Engagement Tracker/EventDB/LOG.old
+.dart_tool/chrome-device/Default/GCM Store/Encryption/LOG.old
+.dart_tool/chrome-device/Default/Local Storage/leveldb/LOG.old
+.dart_tool/chrome-device/Default/Service Worker/Database/LOG.old
+.dart_tool/chrome-device/Default/Service Worker/ScriptCache/4cb013792b196a35_0
+.dart_tool/chrome-device/Default/Session Storage/LOG.old
+.dart_tool/chrome-device/Default/Sessions/Session_13288132723023336
+.dart_tool/chrome-device/Default/Sessions/Tabs_13288132803331442
+.dart_tool/chrome-device/Default/Site Characteristics Database/LOG.old
+.dart_tool/chrome-device/Default/Sync Data/LevelDB/LOG.old
+.dart_tool/chrome-device/Default/coupon_db/LOG.old
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/000005.log
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/LOG.old
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/MANIFEST-000004
+.dart_tool/chrome-device/Default/optimization_guide_hint_cache_store/LOG.old
+.dart_tool/chrome-device/Default/optimization_guide_model_and_features_store/LOG.old
+.dart_tool/chrome-device/Default/shared_proto_db/LOG.old
+.dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG.old
+.dart_tool/chrome-device/Default/08a53737-af5d-4727-8cf0-011319e18bb6.tmp
+.dart_tool/chrome-device/Default/Service Worker/ScriptCache/67a473248953641b_0
+.dart_tool/chrome-device/Default/Service Worker/ScriptCache/b6c28cea6ed9dfc1_0
+.dart_tool/chrome-device/Default/Service Worker/ScriptCache/ba23d8ecda68de77_0
+.dart_tool/chrome-device/Default/Service Worker/ScriptCache/f1cdccba37924bda_0
+.dart_tool/chrome-device/Default/Service Worker/ScriptCache/fa813c9ad67834ac_0
+.dart_tool/chrome-device/Default/Sessions/Session_13288136238121471
+.dart_tool/chrome-device/Default/Sessions/Session_13288216935910391
+.dart_tool/chrome-device/Default/Sessions/Session_13288218229529381
+.dart_tool/chrome-device/Default/Sessions/Session_13288564507374099
+.dart_tool/chrome-device/Default/Sessions/Session_13288726737774958
+.dart_tool/chrome-device/Default/Sessions/Tabs_13288136238587164
+.dart_tool/chrome-device/Default/Sessions/Tabs_13288216936382756
+.dart_tool/chrome-device/Default/Sessions/Tabs_13288218229694275
+.dart_tool/chrome-device/Default/Sessions/Tabs_13288564507875381
+.dart_tool/chrome-device/Default/Sessions/Tabs_13288726738318960
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/000007.log
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/000009.log
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/000011.log
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/000013.log
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/000015.log
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/MANIFEST-000006
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/MANIFEST-000008
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/MANIFEST-000010
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/MANIFEST-000012
+.dart_tool/chrome-device/Default/data_reduction_proxy_leveldb/MANIFEST-000014
